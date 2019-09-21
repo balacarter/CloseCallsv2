@@ -1,0 +1,8 @@
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\bin\Debug\CloseCalls.dll
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\bin\Debug\CloseCalls.pdb
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\obj\Debug\CloseCalls.csprojAssemblyReference.cache
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\obj\Debug\CloseCalls.csproj.CoreCompileInputs.cache
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\obj\Debug\CloseCalls.csproj.CopyComplete
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\obj\Debug\CloseCalls.dll
+C:\Users\Bala\Documents\GTAV modding\Scripts\CloseCalls\CloseCalls\obj\Debug\CloseCalls.pdb
