@@ -10,7 +10,7 @@ namespace CloseCalls
     public class CloseCalls : Script
     {
 
-        string ModName   = "CloseCalls";
+        string ModName   = "CloseCalls"; 
         string Developer = "scriptHijo";
         string Version   = "1.0";
         bool firstTime = true;
